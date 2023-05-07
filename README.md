@@ -13,14 +13,17 @@
    
 💻 Technology used:
  <h3>Frintend technilogy</h3>
+ 
  - Html
  - CSS
 
  <h3>Backend technology</h3>
+ 
  - Node.js
  - Express.js
  
   <h3>Databse</h3>
+  
  - MongoDb(database)
  
 
